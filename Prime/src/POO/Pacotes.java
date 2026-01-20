@@ -1,6 +1,6 @@
 package POO;
 
-public interface Pcotes {
+public interface Pacotes {
     /*Pacotes linguagem Java é composta pormilhares de classes com as finalidades de,
     por exemplo: Classes de tipo de dados, representação de texto, números, datas, arquivose diretórios,
     conexão a banco de dados,entre outras. Imagina todas estas classes exitirem em um único nível de documentação?
