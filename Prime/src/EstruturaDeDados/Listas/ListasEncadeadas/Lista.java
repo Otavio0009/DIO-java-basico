@@ -71,7 +71,7 @@ public class Lista<T> {
             throw new IndexOutOfBoundsException("Não existe conteúdo no índice " + index + " desta lista. Esta lista só vai até o índice " + ultimoIndice + '.');
         }
     }
-
+    
     public boolean isEmpty(){
         return referenciaEntrada == null ? true : false;
     }
