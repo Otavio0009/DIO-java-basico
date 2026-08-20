@@ -1,4 +1,4 @@
-package EstruturaDeDados.EqualsEHashCode;
+package EstruturaDeDados.PrincipaisImplemantacoes.Etapa1.EqualsEHashCode;
 
 import java.util.ArrayList;
 import java.util.List;

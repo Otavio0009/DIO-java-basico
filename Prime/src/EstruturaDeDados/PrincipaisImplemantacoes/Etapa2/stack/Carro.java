@@ -1,4 +1,4 @@
-package EstruturaDeDados.EqualsEHashCode;
+package EstruturaDeDados.PrincipaisImplemantacoes.Etapa2.stack;
 
 import java.util.Objects;
 
@@ -29,5 +29,12 @@ public class Carro {
     @Override
     public int hashCode() {
         return Objects.hash(getMarca());
+    }
+
+    @Override
+    public String toString() {
+        return "Carro{" +
+                "marca='" + marca + '\'' +
+                '}';
     }
 }
